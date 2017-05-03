@@ -3,9 +3,6 @@
 Effortlessly switch between code and unit test...
 
 ### First things first
-* The quickest way to understand this plugin is to see it in action:
-	* ![](../media/TestCop.gif)
-	
 * The actively maintained download location is here:
 	* [https://resharper-plugins.jetbrains.com/packages/Resharper.TestCop.R9/](https://resharper-plugins.jetbrains.com/packages/Resharper.TestCop.R9/)
 
