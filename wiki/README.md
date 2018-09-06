@@ -22,9 +22,6 @@ The plugin provides a [keyboard shortcut](keyboard_shortcut.md) (ctrl-g,ctrl-t) 
 
 ![](images/Home_CreateFilePrompt.png)
 
-## Run associated tests
-Launch the test runner to run tests within the associated test files of the class file you are viewing (ctrl-g,ctrl-x).
-
 And a number of Resharper highlightings to help with writing and maintaining tests within larger solutions.
 ## Highlightings
 
