@@ -1,4 +1,4 @@
-**Testcop - a Resharper plugin to help with unit tests**
+*Testcop - a Resharper plugin to help with unit tests**
 
 Effortlessly switch between code and unit test...
 
@@ -12,11 +12,18 @@ TestCop is a [resharper plugin](http://www.jetbrains.com/resharper/plugins/index
 
 Testing and how to write tests are a very personal thing...this is something I've developed in my spare time and found useful enough to share with the wider community...it won't suit every project/solution/individual.
 
+## Run associated tests
+Launch the test runner to run tests within the associated test files of the class file you are viewing (ctrl-g,ctrl-x).
+
+
 
 ## Toggle between code and test
 The plugin provides a [keyboard shortcut](keyboard_shortcut.md) (ctrl-g,ctrl-t) to switch between code and test files (the reason why I originally wrote the plugin). It uses the name of the test file to identify the name of the class under test and when toggling between code and test it can optionally look for usages within the test assembly. If the class file/test is missing it will offer to create it in the correct location. In the screen shot below the file named ClassB.SecurityTests.cs contains the class ClassBSecurityTests.
 
 ![](images/Home_CreateFilePrompt.png)
+
+## Run associated tests
+Launch the test runner to run tests within the associated test files of the class file you are viewing (ctrl-g,ctrl-x).
 
 And a number of Resharper highlightings to help with writing and maintaining tests within larger solutions.
 ## Highlightings
@@ -62,7 +69,7 @@ A single test project for all code projects within an assembly is supported but 
 ![](images/Home_singleTestProject_MyCorp_MyApp.png)
 
 ## Keyboard Shortcuts
-Note: TestCop will register [keyboard shortcut](keyboard_shortcut.md) Ctrl-G,Ctrl-T (go test) - you may need to re-assign any conflicting shortcuts.
+Note: TestCop will register [keyboard shortcut](keyboard_shortcut.md) Ctrl-G,Ctrl-T (go test) and Ctrl-G,Ctrl-X (run tests) - you may need to re-assign any conflicting shortcuts.
 
 ## TestCop Installation 
 Installation is via the Resharper -> Extensions Manager menu item. Very easy to use. 
