@@ -9,6 +9,10 @@ Effortlessly switch between code and unit test...
 	* [https://resharper-plugins.jetbrains.com/packages/](https://resharper-plugins.jetbrains.com/packages/Resharper.TestCop.R9/)
 
 
+* Bug Reporting
+	* [https://github.com/testcop/Resharper.TestCop](https://github.com/testcop/Resharper.TestCop/issues)
+	Ideally with a merge request
+
 * This shows the plugin in action:
 	* ![](media/TestCop.gif)
 	
