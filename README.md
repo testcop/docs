@@ -1,4 +1,4 @@
-![JetBrains ReSharper plugins](https://img.shields.io/resharper/v/Resharper.TestCop.R9.svg?label=TestCop)
+[![JetBrains ReSharper plugins](https://img.shields.io/resharper/v/Resharper.TestCop.R9.svg?label=TestCop)](https://plugins.jetbrains.com/search?correctionAllowed=true&pr=&search=testcop)
 
 *Testcop - a Resharper plugin to help with unit tests**
 
