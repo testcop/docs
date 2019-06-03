@@ -1,4 +1,6 @@
-**Testcop - a Resharper plugin to help with unit tests**
+![JetBrains ReSharper plugins](https://img.shields.io/resharper/v/Resharper.TestCop.R9.svg?label=TestCop)
+
+*Testcop - a Resharper plugin to help with unit tests**
 
 Effortlessly switch between code and unit test...
 
